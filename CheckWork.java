@@ -25,7 +25,7 @@ public static void main(String[] args)
 
 
 
-
+//Super class and sub class are in different packages so private and default modifiers can't be accessed.
 
 
 
