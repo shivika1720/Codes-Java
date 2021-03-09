@@ -1,6 +1,6 @@
 public class CheckAccess
 {
-   private int a=10;   
+   private int a=10;   // All the modifiers are accessible within a class.
    int b=20;
    protected int c=17;
    public int d=14;
