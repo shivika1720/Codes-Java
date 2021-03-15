@@ -5,7 +5,7 @@ class Outer
 	{
 		System.out.println("Show");
 	}
-	class Inner              
+	class Inner     // Member Class         
 	{
 		public void display()
 		{

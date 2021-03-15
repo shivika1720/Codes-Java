@@ -8,9 +8,9 @@ public class Employee
     }
     
     void description()
-    {
+     {
        System.out.println("Salary of the employee is "+Salary);
-    }
+     }
     
 	public static void main(String[] args)
 	
