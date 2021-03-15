@@ -4,8 +4,8 @@ public class Localinner
 		 {
 			 System.out.println("This is march goin'");
 			 
-		      class English
-		      {
+		      class English   // class English declared inside method create.
+      		      {
 		    	  void expand()
 		    	  {
 		    	     System.out.println("This is march goin'");
