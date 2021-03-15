@@ -7,9 +7,11 @@ abstract class Anonymous
     {
        public static void main(String[] args)
        {
-    	   Anonymous o=new Anonymous()
-    	   {
-    		   void method2()
+    	   Anonymous o=new Anonymous()  // Anonymous class has no name.
+                   {
+   
+    	   {                 
+    		   void method2()   
     		   {
     			   System.out.print("Hey ");
     		   }
