@@ -9,7 +9,7 @@ class Fruits
     {
       System.out.println(no_of_fruits);   // output- 10
       System.out.println(this.no_of_fruits); // output- 5
-      System.out.println(super.no_of_fruits); // 
+      System.out.println(super.no_of_fruits); // output- 15
     }
     public static void main(String[] args)
     {
