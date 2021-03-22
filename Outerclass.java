@@ -13,11 +13,11 @@ abstract class Anonymous
     	   {                 
     		   void method2()   
     		   {
-    			   System.out.print("Hey ");
+    			  System.out.print("Hey ");
     		   }
     		   void methodOuter()
     		   {
-    			   System.out.println("people!!");
+    			  System.out.println("people!!");
     		   } 
     	   };
     		      o.method2();
