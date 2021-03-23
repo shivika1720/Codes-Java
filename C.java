@@ -1,11 +1,11 @@
-class A
+class A    // Parent class
 {
 	 void showA()
 	{
 	      System.out.printn("a");
 	}
 }
-class B extends A
+class B extends A    
 {
 	 void showB()
 	{
