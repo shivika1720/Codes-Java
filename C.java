@@ -5,7 +5,7 @@ class A    // Parent class
 	      System.out.printn("a");
 	}
 }
-class B extends A    
+class B extends A     // Single Inheritance
 {
 	 void showB()
 	{
