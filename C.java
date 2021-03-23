@@ -2,21 +2,21 @@ class A
 {
 	void showA()
 	{
-		System.out.printn("a");
+	      System.out.printn("a");
 	}
 }
 class B extends A
 {
 	void showB()
 	{
-		System.out.println("b");
+	      System.out.println("b");
 	}
 }
 class c extends B
 {
 	void showC()
 	{
-		System.out.println("c");
+	      System.out.println("c");
 	}
       public static void main()
       {
