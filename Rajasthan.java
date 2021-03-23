@@ -9,7 +9,7 @@ class Gujarat extends State
 {
 	void display2()
 	{
-		System.out.println("Gujarati");
+	       System.out.println("Gujarati");
 	}
 }
 class Rajasthan extends State
