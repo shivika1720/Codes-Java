@@ -1,20 +1,20 @@
 class A
 {
-	void showA()
+	 void showA()
 	{
 	      System.out.printn("a");
 	}
 }
 class B extends A
 {
-	void showB()
+	 void showB()
 	{
 	      System.out.println("b");
 	}
 }
 class c extends B
 {
-	void showC()
+	 void showC()
 	{
 	      System.out.println("c");
 	}
