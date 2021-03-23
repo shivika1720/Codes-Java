@@ -12,7 +12,7 @@ class B extends A     // Single Inheritance
 	      System.out.println("b");
 	}
 }
-class c extends B
+class c extends B   // Multiple Inheritance
 {
 	 void showC()
 	{
