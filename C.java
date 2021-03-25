@@ -1,4 +1,4 @@
-class A    // Parent class
+class A     // Parent class
 {
 	 void showA()
 	{
