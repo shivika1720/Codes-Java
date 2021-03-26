@@ -1,26 +1,26 @@
-class A
+class A     // Parent class
 {
-	void showA()
+	 void showA()
 	{
-		System.out.printn("a");
+	      System.out.printn("a");
 	}
 }
-class B extends A
+class B extends A     // Single Inheritance
 {
-	void showB()
+	 void showB()
 	{
-		System.out.println("b");
+	      System.out.println("b");
 	}
 }
-class c extends B
+class c extends B   // Multiple Inheritance
 {
-	void showC()
+	 void showC()
 	{
-		System.out.println("c");
+	      System.out.println("c");
 	}
       public static void main()
       {
-	      C ob=new C();
+	      C ob=new C();   // with object of class C, we can call all the methods.
 	      ob.showA();
 	      ob.showB();
 	      ob.showC();
