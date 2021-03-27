@@ -14,7 +14,7 @@ public class UseFinally {
 			System.out.println(e);
 			System.out.println("Display");
 		}
-		finally
+		finally     // Finally block will always execute.
 		{
 			System.out.println("YOU HAVE TO PRINT THIS");
 		}
