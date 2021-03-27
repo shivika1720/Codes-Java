@@ -8,11 +8,11 @@ public class Test
 			{
 			   FileInputStream fis=new FileInputStream("d: /abc.txt");
 			}
-		    catch (Exception e)
-		    {
+		       catch (Exception e)
+		       {
 			   System.out.println(e);
 			   System.out.println("Display");
-	     	}
+	     	       }
 			
 		}
 	
