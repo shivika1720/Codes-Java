@@ -2,7 +2,7 @@ class Array
 {
    public static void main(String args[])
    {
-        int[] array = {10, 20, 30, 40, 50, 10};
+        int[] array = {11, 62, 35, 14, 20, 37};
         int sum = 0;
         for( int num : array)
       {
