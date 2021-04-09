@@ -28,7 +28,7 @@ public class Voting
 	   }
 	   catch(Exception e)
 	   {
-		 e.printStackTrace();
+		  e.printStackTrace();
 	   }
 		 System.out.println("Exception handled");
 
