@@ -3,7 +3,7 @@ class YoungerAgeException extends RuntimeException // inheriting properties from
 {
 	YoungerAgeException(String msg)  // parameterized constructor
 	{
-	  super(msg);
+	   super(msg);
 	}
 }
 public class Voting
