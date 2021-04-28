@@ -4,17 +4,17 @@ import java.io.FileNotFoundException;
 
 public class ReadAndWrite
 {
-   void readFile() throws FileNotFoundException
-   {
+    void readFile() throws FileNotFoundException
+    {
 	FileInputStream fis= new FileInputStream("d:/abc.txt");
 	
-   }
+    }
 
-   void writeFile() throws FileNotFoundException
-   {
+    void writeFile() throws FileNotFoundException
+    {
 	FileOutputStream fos= new FileOutputStream("d:/xyz.txt");
 	
-   }
+    }
 }
 
 class Test
