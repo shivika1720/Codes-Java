@@ -31,9 +31,9 @@ public class FrequencyWord
 	
     public static void main(String[] args)
     {
-    	System.out.println("Name- Shivika Kejriwal Roll No. R171219048");
-        String str = "What are you trying to achieve in this paragraph and in your whole composition? What is your purpose right here? ";
+    	 System.out.println("Name- Shivika Kejriwal Roll No. R171219048");
+         String str = "What are you trying to achieve in this paragraph and in your whole composition? What is your purpose right here? ";
  
-        printFrequency(str);
+         printFrequency(str);
     }
 }
