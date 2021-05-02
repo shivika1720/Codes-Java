@@ -24,8 +24,8 @@ class Producers implements Runnable
 
     public Producers(Vector vec, int size)
     {
-        this.vec = vec;
-        this.SIZE = size;
+       this.vec = vec;
+       this.SIZE = size;
     }
 
     @Override
