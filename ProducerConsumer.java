@@ -89,7 +89,9 @@ class Consumers implements Runnable
             {
                 System.out.println("Consumed: " + consumes());
                 Thread.sleep(50);
-            } catch (InterruptedException ex) {
+            } 
+           catch (InterruptedException ex)
+            {
                 Logger.getLogger(Consumers.class.getName()).log(Level.SEVERE, null, ex);
             }
 
