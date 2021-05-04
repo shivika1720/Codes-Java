@@ -14,11 +14,11 @@ public class FrequencyWord
             
             if(fr.containsKey(arr[i]))
             {
-                fr.put(arr[i], fr.get(arr[i])+1);
+                 fr.put(arr[i], fr.get(arr[i])+1);
             }
             else
             {
-                fr.put(arr[i],1);
+                 fr.put(arr[i],1);
             }
         }
         
