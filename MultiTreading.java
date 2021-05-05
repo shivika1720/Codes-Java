@@ -6,11 +6,11 @@ class A
     System.out.print (" I LOVE UPES "+txt);
     try
     {
-      Thread.sleep(1000);
+       Thread.sleep(1000);
     }
     catch(InterruptedException e)
     {
-      e.printStackTrace();
+       e.printStackTrace();
     }
      System.out.println (" I  LOVE UPES..... ");
   }
