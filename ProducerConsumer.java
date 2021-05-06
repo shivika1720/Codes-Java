@@ -36,7 +36,7 @@ class Producers implements Runnable
             System.out.println("Produced: " + i);
             try
             {
-                produces(i);
+               produces(i);
             } catch (InterruptedException ex)
             {
                 Logger.getLogger(Producers.class.getName()).log(Level.SEVERE, null, ex);
