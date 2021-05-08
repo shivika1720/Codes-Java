@@ -37,7 +37,7 @@ class Producers implements Runnable
             try
             {
                produces(i);
-            } catch (InterruptedException ex)
+            }  catch (InterruptedException ex)
             {
                 Logger.getLogger(Producers.class.getName()).log(Level.SEVERE, null, ex);
             }
