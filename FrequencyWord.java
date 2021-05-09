@@ -7,7 +7,7 @@ public class FrequencyWord
     {
         Map<String,Integer> fr=new TreeMap<>();
  
-        String arr[]=str.split(" ");
+         String arr[]=str.split(" ");
  
         for(int i=0;i<arr.length;i++)
         {
