@@ -16,7 +16,7 @@ public class Frequency
 			{  
 				if(string[a] == string[b])
 				{  
-					fre[a]++;  
+					 fre[a]++;  
 
 					
 					string[b] = '0';  
