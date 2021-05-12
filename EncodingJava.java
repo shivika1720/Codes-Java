@@ -23,8 +23,8 @@ public class EncodingJava {
             ascii = ascii+ValueEncode;
               if(ascii>122)
             {
-                ascii = ascii - 122;
-                ascii = ascii + 96;
+                 ascii = ascii - 122;
+                 ascii = ascii + 96;
             }
             char asciii = (char)ascii;
             System.out.println("Output String here: "+asciii);
