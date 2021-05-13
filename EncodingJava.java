@@ -19,8 +19,8 @@ public class EncodingJava {
         //For changing the string using encounter value
         for(int i=0 ; i<info.length(); i++)
         {
-             int ascii = info.charAt(i);
-             ascii = ascii+ValueEncode;
+            int ascii = info.charAt(i);
+            ascii = ascii+ValueEncode;
               if(ascii>122)
             {
                  ascii = ascii - 122;
