@@ -4,7 +4,7 @@ public class NestedTc
 	{
 	    try  // Nested try block
 	     {
-                   System.out.println("Nested try-catch");
+                    System.out.println("Nested try-catch");
 
                    try
                  {
